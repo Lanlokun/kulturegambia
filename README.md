@@ -1,6 +1,5 @@
 # Kultur Gambia Android App
 
-Then reference the images in Markdown like this:
 
 ![App Screens](screenshots/kulturemockup.png)
 
