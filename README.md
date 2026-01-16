@@ -7,6 +7,14 @@ Kultur Gambia is an open-source Android application built with Jetpack Compose t
 
 The project emphasizes simplicity, accessibility, and community contribution, serving both as a cultural platform and a practical example of modern Android development.
 
+## Live Demo
+
+You can try the Kultur Gambia Android app directly in your browser using the link below. The app runs in a cloud-based Android emulator powered by Appetize, so no installation is required.
+
+https://appetize.io/app/b_ewlujllkbsvy3d7nwyfsamcot4?device=pixel7&osVersion=13.0&toolbar=true
+
+This live demo is intended for testing, demonstration, and academic review purposes.
+
 ## Tech Stack
 
 Kultur Gambia is built entirely using modern Android tools and best practices. The application is written in Kotlin and uses Jetpack Compose for declarative UI development. Material 3 is used for theming and UI components to ensure a consistent and modern design language across the app. Navigation Compose handles in-app navigation, enabling a single-activity architecture with multiple composable screens.
