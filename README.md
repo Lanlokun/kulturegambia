@@ -1,5 +1,11 @@
 # Kultur Gambia Android App
 
+Then reference the images in Markdown like this:
+
+```md
+![App Screens](screenshots/kulturemockup.png)
+```
+
 Kultur Gambia is an open-source Android application built with Jetpack Compose that showcases Gambian culture, heritage, events, and places in a modern, mobile-first experience. The app is designed to document and preserve cultural stories while making them easily accessible to both locals and a global audience.
 
 The project emphasizes simplicity, accessibility, and community contribution, serving both as a cultural platform and a practical example of modern Android development.
@@ -24,18 +30,10 @@ Kultur Gambia follows a single-activity architecture with all UI rendered using 
 
 Data is currently sourced from local JSON assets and accessed through repository classes. This design makes it easy to later introduce remote data sources or persistent storage without major architectural changes.
 
-## Getting Started
+## Usage
 
-To run the project locally, clone the repository and open it in Android Studio. Ensure that you are using a recent version of Android Studio with Jetpack Compose support enabled. Sync the Gradle project and run the app on an emulator or physical Android device running Android 8.0 or higher.
+When the app is launched, users are greeted with a simple splash screen before being taken to the Home screen. From the Home screen, users can browse cultural stories and explore featured content.
 
-No additional setup is required at this stage, as the app uses local data sources.
+The bottom navigation allows users to switch between Home, Explore, Map, Events, and Saved screens. The Explore section enables browsing by categories, while the Map and Events sections provide location-based and event-related cultural information.
 
-## Contribution
-
-Contributions are welcome. You can contribute by improving the UI, adding new features, fixing bugs, enhancing documentation, or contributing cultural content ideas. To contribute, fork the repository, create a feature branch, and submit a pull request with a clear description of your changes.
-
-All contributions should follow clean code practices and align with the existing project structure and design principles.
-
-## Status
-
-Work in progress. The project is actively being developed, with plans to expand features, improve user-submitted content handling, and introduce more advanced search, filtering, and data persistence capabilities.
+Users can tap on any cultural item to view detailed information. Items they find interesting can be saved and later accessed from the Saved screen. The app also allows users to submit new cultural stories using the Submit Story feature, where they can add text content and upload an image.
