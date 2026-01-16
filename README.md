@@ -34,3 +34,26 @@ When the app is launched, users are greeted with a simple splash screen before b
 The bottom navigation allows users to switch between Home, Explore, Map, Events, and Saved screens. The Explore section enables browsing by categories, while the Map and Events sections provide location-based and event-related cultural information.
 
 Users can tap on any cultural item to view detailed information. Items they find interesting can be saved and later accessed from the Saved screen. The app also allows users to submit new cultural stories using the Submit Story feature, where they can add text content and upload an image.
+
+
+## Installation
+
+To set up and run the Kultur Gambia Android app locally, follow the steps below.
+
+First, ensure that you have **Android Studio** installed on your machine. It is recommended to use the latest stable version with full Jetpack Compose support enabled. You will also need an Android device or emulator running **Android 8.0 (API level 26) or higher**.
+
+Clone the repository to your local machine using Git:
+
+```bash
+git clone https://github.com/Lanlokun/kulturegambia.git
+cd kulturegambia
+```
+
+Open the project in Android Studio. Once opened, allow Android Studio to complete the Gradle sync process. This may take a few minutes on the first run as dependencies are downloaded.
+
+After the project has synced successfully, select a target device. You can either start an Android emulator from Android Studio’s Device Manager or connect a physical Android device with USB debugging enabled.
+
+Finally, click the Run button in Android Studio or use the Shift + F10 shortcut to build and launch the app on the selected device.
+
+No additional configuration is required, as the app currently uses local JSON data sources and does not depend on external services.
+
