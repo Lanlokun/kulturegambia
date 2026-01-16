@@ -87,9 +87,8 @@ All contributions should be respectful, well-documented, and aligned with the go
 ## Author
 
 Kultur Gambia was developed by **Malik Kolawole Lanlokun**. The project reflects my interest in modern Android development and in using technology to document and share cultural heritage through accessible digital platforms.
-
 ## Acknowledgements
 
-This project was developed as my **final project for a Mobile Application Development course**. I would like to thank my course instructor for the guidance and support provided throughout the development process.
+This project was developed as my **final project for the Mobile Application Development course**. I would like to sincerely thank my course instructor, **师文轩 (Shī Wénxuān)**, for the guidance, feedback, and academic support provided throughout the course.
 
-I am also grateful to the Gambian cultural community for the inspiration behind this project, and to the open-source community and Android ecosystem for the tools and libraries that made this work possible.
+I am also grateful to the Gambian cultural community for the inspiration behind this project, and to the open-source Android community for the tools and libraries that made this work possible.
