@@ -2,9 +2,7 @@
 
 Then reference the images in Markdown like this:
 
-```md
 ![App Screens](screenshots/kulturemockup.png)
-```
 
 Kultur Gambia is an open-source Android application built with Jetpack Compose that showcases Gambian culture, heritage, events, and places in a modern, mobile-first experience. The app is designed to document and preserve cultural stories while making them easily accessible to both locals and a global audience.
 
