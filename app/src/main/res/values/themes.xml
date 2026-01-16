@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base app theme -->
+    <style name="Theme.KulturGambia" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- your normal theme -->
+    </style>
+
+    <style name="Theme.KulturGambia.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/flag</item>
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+
+        <!-- after splash, go to your normal theme -->
+        <item name="postSplashScreenTheme">@style/Theme.KulturGambia</item>
+    </style>
+
+
+</resources>

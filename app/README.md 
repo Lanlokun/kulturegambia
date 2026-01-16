@@ -1,0 +1,83 @@
+# 🇬🇲 Kultur Gambia: Open Source Heritage Project
+
+Welcome to the **Kultur Gambia** open-source community! This project is a digital initiative dedicated to archiving, celebrating, and sharing the rich cultural tapestry of The Gambia—from the ancient stone circles of Wassu to the vibrant festivals of Banjul.
+
+---
+
+## 🌟 Our Mission
+Kultur Gambia is built on the belief that heritage belongs to everyone. By providing a modern, community-driven platform, we aim to:
+* **Digitalize Traditions:** Record oral histories, recipes, and music before they are lost.
+* **Promote Tourism:** Help travelers discover hidden landmarks and cultural sites.
+* **Empower Storytellers:** Give every Gambian a platform to share their local history.
+
+---
+
+## 📱 Features & User Experience
+
+### **The Discovery Hub (`HomeScreen`)**
+The main interface is designed to be an immersive "Digital Museum."
+
+
+* **Visual Storytelling:** We prioritize high-quality imagery to represent the beauty of the country.
+* **Intuitive Navigation:** Use the **Category Slider** to jump between *Food, Music, Festivals,* and more.
+* **Staggered Discovery:** Our "Scrapbook" layout (`LazyVerticalStaggeredGrid`) allows users to browse diverse content organically.
+
+### **Community Contributions**
+The app is powered by the people. The **"Share Story"** feature allows users to:
+1. Upload a cover photo representing their culture.
+2. Write a title and a brief summary.
+3. Share the full history or instructions (e.g., a Benachin recipe).
+
+---
+
+## 🛠 Project Structure (For Contributors)
+
+We use a modern Android stack that is beginner-friendly for new open-source contributors:
+
+| Component | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Framework** | Jetpack Compose | Modern, declarative UI development. |
+| **Image Loading** | Coil | Efficiently loading cultural photos from the web or local assets. |
+| **Layouts** | Staggered Grids | Creating a dynamic, Pinterest-style browsing experience. |
+| **Theme** | Material 3 | Adhering to the latest Android design standards for accessibility. |
+
+
+
+### **Design Tokens**
+To keep the app looking professional and consistent, we follow these standards:
+* **Rounded Corners:** Cards use `24.dp` for featured items and `20.dp` for grid items.
+* **Spacing:** A standard `16.dp` to `20.dp` gutter is used between elements to give the content "room to breathe."
+* **Typography:** We use *ExtraBold* headlines to give the app a strong, confident identity.
+
+---
+
+## 🤝 How You Can Help
+
+### **1. As a Contributor (Non-Technical)**
+You don't need to know how to code to help Kultur Gambia!
+* **Fact Checking:** Verify the historical accuracy of stories in the app.
+* **Photography:** Contribute high-quality, royalty-free photos of Gambian landmarks.
+* **Translation:** Help us translate the app into local languages like Mandinka, Wolof, and Fula.
+
+### **2. As a Developer (Technical)**
+We welcome Pull Requests!
+* **Bug Fixes:** Check our "Issues" tab on GitHub.
+* **New Features:** Help us build the "Interactive Map" or "Audio Folklore" player.
+* **Refactoring:** We are always looking to optimize our `LazyColumn` and `StaggeredGrid` implementations.
+
+---
+
+## 🚀 Getting Started for Developers
+
+1.  **Clone the Repository:** `git clone https://github.com/your-username/KulturGambia.git`
+2.  **Open in Android Studio:** Use the latest version (Ladybug or newer).
+3.  **Explore the Code:** Start with `HomeScreen.kt` to see how the main feed is rendered.
+4.  **Run the App:** Deploy to an emulator or physical device to see the culture in action!
+
+---
+
+## 📜 License
+This project is Open Source. By contributing, you agree to preserve the cultural integrity of the shared content.
+
+---
+**"Preserving the past, building the future."**

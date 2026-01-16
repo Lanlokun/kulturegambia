@@ -1,0 +1,76 @@
+{
+  "cultureItems": [
+    {
+      "id": "c1",
+      "title": "Kora Music and Oral Storytelling",
+      "category": "Music",
+      "summary": "The kora connects melody with history through griot traditions in Senegambia.",
+      "content": "The kora is a 21-string instrument widely associated with griots. In The Gambia, it is deeply tied to oral history, praise singing, and community ceremonies. Its sound carries stories across generations and remains relevant in modern Gambian music.",
+      "coverImageDrawable": "kora",
+      "galleryImageDrawables": ["kora_playing", "griot_storytelling"],
+      "tags": ["Kora", "Griot", "Tradition"],
+      "placeId": "p1",
+      "createdAt": 1736800000000
+    },
+    {
+      "id": "c2",
+      "title": "Benachin and Community Cooking",
+      "category": "Food",
+      "summary": "Benachin is more than food. It is family, sharing, and celebration.",
+      "content": "Benachin, often compared to jollof rice, is a popular one-pot dish in The Gambia. It is commonly prepared for gatherings and daily meals. The cooking process and the sharing of the meal reflect hospitality and togetherness.",
+      "coverImageDrawable": "cook",
+      "galleryImageDrawables": ["benachin", "family_cooking"],
+      "tags": ["Benachin", "Cuisine", "Hospitality"],
+      "placeId": null,
+      "createdAt": 1736810000000
+    },
+    {
+      "id": "c3",
+      "title": "Traditional Dress and Identity",
+      "category": "Clothing",
+      "summary": "Clothing expresses heritage through patterns, tailoring, and occasions.",
+      "content": "Traditional clothing in The Gambia often features bright colors and flowing designs. Outfits are worn during religious celebrations, weddings, naming ceremonies, and cultural festivals. The style represents identity and pride.",
+      "coverImageDrawable": "futo",
+      "galleryImageDrawables": ["traditional_dress", "ceremonial_wear"],
+      "tags": ["Dress", "Ceremony", "Culture"],
+      "placeId": null,
+      "createdAt": 1736820000000
+    },
+    {
+      "id": "c4",
+      "title": "Kankurang Masquerade Tradition",
+      "category": "Festivals",
+      "summary": "The Kankurang is a sacred masquerade symbolizing protection and moral order.",
+      "content": "The Kankurang is a traditional masquerade associated with initiation rites and community protection. Covered in bark or raffia, the figure appears during important ceremonies and festivals. It represents discipline, spirituality, and ancestral authority in Gambian culture.",
+      "coverImageDrawable": "kankurang",
+      "galleryImageDrawables": ["kankurang_people", "kankurang_festival"],
+      "tags": ["Kankurang", "Masquerade", "Ritual"],
+      "placeId": "p3",
+      "createdAt": 1736830000000
+    },
+    {
+      "id": "c5",
+      "title": "Hunting Festival and Masquerade Performance",
+      "category": "Festivals",
+      "summary": "The hunting festival celebrates bravery, protection, and ancestral traditions through masquerade performance.",
+      "content": "In parts of The Gambia, especially around Banjul, traditional hunting festivals are marked by elaborate masquerade performances symbolizing strength, protection, and community vigilance. Performers often wear animal-inspired costumes, such as lion masquerades, and move through streets accompanied by music and crowds. The festival honors ancestral hunters and reinforces unity, discipline, and cultural identity.",
+      "coverImageDrawable": "hunting",
+      "galleryImageDrawables": ["lion_masquerade", "hunting_festival_crowd"],
+      "tags": ["Hunting Festival", "Masquerade", "Tradition", "Bravery"],
+      "placeId": "p2",
+      "createdAt": 1736840000000
+    },
+    {
+      "id": "c6",
+      "title": "Football and Sports Culture in The Gambia",
+      "category": "Sports",
+      "summary": "Football is a unifying force that shapes youth identity, community pride, and national spirit.",
+      "content": "Football is the most popular sport in The Gambia and plays a major role in everyday life. From sandy community pitches to national stadiums, the game brings people together across generations. Local leagues, school competitions, and international matches are followed with passion. Football culture encourages discipline, teamwork, and aspiration, especially among young people, and has become an important pathway for talent and national representation.",
+      "coverImageDrawable": "football",
+      "galleryImageDrawables": ["street_football", "stadium_match"],
+      "tags": ["Football", "Sports", "Youth", "Community"],
+      "placeId": "p2",
+      "createdAt": 1736850000000
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kultur Gambia</string>
+    <string name="google_maps_key">YOUR_MAPS_API_KEY</string>
+
+</resources>

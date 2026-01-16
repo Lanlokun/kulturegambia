@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p1",
+    "name": "National Museum of The Gambia",
+    "type": "Museum",
+    "lat": 13.4549,
+    "lng": -16.5790,
+    "address": "Banjul, The Gambia",
+    "description": "A key place to learn about Gambian history, culture, and heritage artifacts.",
+    "imageUrl": "museum"
+  },
+  {
+    "id": "p2",
+    "name": "Albert Market",
+    "type": "Market",
+    "lat": 13.4540,
+    "lng": -16.5797,
+    "address": "Banjul, The Gambia",
+    "description": "A lively market for crafts, fabrics, food, and everyday life in the capital.",
+    "imageUrl": "albert"
+  },
+  {
+    "id": "p3",
+    "name": "Katchikally Crocodile Pool",
+    "type": "Cultural Site",
+    "lat": 13.4786,
+    "lng": -16.6762,
+    "address": "Bakau, The Gambia",
+    "description": "A sacred site known for its crocodile pool and traditional rituals.",
+    "imageUrl": "katchikally"
+  },
+  {
+    "id": "p4",
+    "name": "Arch 22",
+    "type": "Landmark",
+    "lat": 13.4531,
+    "lng": -16.5778,
+    "address": "Banjul, The Gambia",
+    "description": "An iconic monument offering panoramic views of Banjul and its surroundings.",
+    "imageUrl": "museum"
+  },
+  {
+    "id": "p5",
+    "name": "Tanji Fishing Village",
+    "type": "Village",
+    "lat": 13.3933,
+    "lng": -16.7914,
+    "address": "Tanji, The Gambia",
+    "description": "A vibrant coastal village known for traditional fishing practices and daily fish markets.",
+    "imageUrl": "tanji"
+  },
+  {
+    "id": "p6",
+    "name": "River Gambia National Park",
+    "type": "National Park",
+    "lat": 13.3536,
+    "lng": -15.7664,
+    "address": "Central River Region, The Gambia",
+    "description": "A protected area showcasing wildlife, river ecosystems, and cultural heritage.",
+    "imageUrl": "river"
+  }
+]
