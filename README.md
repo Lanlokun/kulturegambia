@@ -57,3 +57,47 @@ Finally, click the Run button in Android Studio or use the Shift + F10 shortcut 
 
 No additional configuration is required, as the app currently uses local JSON data sources and does not depend on external services.
 
+## Contribution
+
+Contributions are welcome and appreciated. Kultur Gambia is an open-source project, and community involvement plays an important role in improving the app and expanding its impact.
+
+To contribute, start by forking the repository to your own GitHub account. Clone your forked repository to your local machine and open the project in Android Studio.
+
+Create a new branch for your changes. This helps keep your work isolated and makes it easier to review.
+
+```bash
+git checkout -b feature/your-feature-name
+```
+
+Make your changes while following the existing project structure, coding style, and Material 3 design guidelines. Ensure that the app builds successfully and runs correctly on an emulator or physical device before submitting your changes.
+
+Once your work is complete, commit your changes with a clear and descriptive commit message.
+
+```bash
+git commit -m "Add feature or fix: short description"
+```
+
+```bash
+git push origin feature/your-feature-name
+```
+
+Finally, open a pull request against the main repository. In the pull request description, clearly explain what your changes do and why they are necessary.
+
+All contributions should be respectful, well-documented, and aligned with the goals of the project. Bug fixes, feature improvements, UI enhancements, documentation updates, and cultural content ideas are all welcome.
+
+## Author
+
+Kultur Gambia is developed and maintained by **Malik Kolawole Lanlokun**, a software engineer and open-source community builder with a strong interest in using technology to support cultural preservation, education, and community-driven innovation.
+
+The project reflects Malik’s academic and practical interests in modern Android development, user-centered design, and community-oriented digital platforms.
+
+## Acknowledgements
+
+This project was developed as the **final project for a Mobile Application Development course**. Special appreciation goes to the course instructor for guidance, feedback, and the academic structure that supported the design and development of this application.
+
+Sincere thanks also go to the Gambian cultural community for the inspiration behind the project. The stories, traditions, and shared heritage of The Gambia form the foundation of Kultur Gambia.
+
+Additional appreciation is extended to the open-source community and the maintainers of the tools and libraries used in this project, including Jetpack Compose, Material 3, and the broader Android developer ecosystem.
+
+Finally, gratitude to all contributors, reviewers, and supporters who provide ideas, feedback, and code that help improve the project and support the preservation and celebration of Gambian culture through technology.
+
